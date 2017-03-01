@@ -1,7 +1,0 @@
-{
-"packageUrl":"http://192.168.99.101:3341/hotupdate/assetsupdate",
-"remoteManifestUrl":"http://192.168.99.101:3341/hotupdate/assetsupdate/project.manifest",
-"remoteVersionUrl":"http://192.168.99.101:3341/hotupdate/assetsupdate/version.manifest",
-"version":"1.0.4",
-"engineVersion":"3.14.1"
-}
