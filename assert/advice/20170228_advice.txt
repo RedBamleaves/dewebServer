@@ -1,0 +1,11 @@
+{"msglist":[
+{"msg":"我勒个擦"},
+{"msg":"我勒个擦"},
+{"msg":"我勒个擦"},
+{"userid":10000,"msg":"test"},
+{"userid":10000,"msg":"test"},
+{"userid":10000,"msg":"test"},
+{"userid":10000,"msg":"test"},
+{"userid":10000,"username":"lyp","msg":"test"},
+{"userid":10000,"username":"lyp","msg":"test"}
+]}
